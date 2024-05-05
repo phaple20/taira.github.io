@@ -1,0 +1,1 @@
+import{_ as a,D as r,t as c,x as i,h as t,z as n,B as o,F as s}from"./index-CpvlUi9A.js";const _={};function l(d,h){const e=r("RouterLink");return c(),i(s,null,[t(e,{to:"/index/vvhan"},{default:n(()=>[o("vvhan")]),_:1}),t(e,{to:"/index/vvhan/bilibiliHot"},{default:n(()=>[o("bilibilihot")]),_:1})],64)}const v=a(_,[["render",l]]);export{v as V};

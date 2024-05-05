@@ -1,0 +1,1 @@
+import{V as e}from"./vvhanMenu-CPLHpNKm.js";import{e as a,x as t,h as n,B as o,F as r,t as s}from"./index-CpvlUi9A.js";const u=a({__name:"index",setup(c){return(m,p)=>(s(),t(r,null,[n(e),o(" 韩小韩 ")],64))}});export{u as default};
